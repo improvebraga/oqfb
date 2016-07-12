@@ -1,4 +1,4 @@
-This is the source code behind the "[O que falta em Coimbra?](http://oquefaltaemcoimbra.pt/)" concept.
+This is the source code behind the "[O que falta em Braga?](www.oquefaltaembraga.com)" concept.
 Make sure you check out the [Usage Guidelines](http://oquefaltaemcoimbra.pt/about).
 
 How does it work?
